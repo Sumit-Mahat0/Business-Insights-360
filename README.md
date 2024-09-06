@@ -35,9 +35,3 @@ AtliQ Hardware is a rapidly growing company with a global presence, selling comp
 3. **Distributors**
 
 Recently, the company faced unexpected losses after opening a new store in the U.S. based on surveys, intuition, and basic Excel analysis. AtliQ's competitors, armed with advanced analytics teams, use data-driven decision-making to thrive in the market. To stay competitive, AtliQ has made the strategic decision to build their own analytics team, which will use data insights to inform future business strategies.
-
-## Data Modelling
-*https://github.com/Sumit-Mahat0/Business-Insights-360/blob/main/Data%20Modelling.png*
-
-## Home
-*https://github.com/Sumit-Mahat0/Business-Insights-360/blob/main/BI%20360%20Home.png*
