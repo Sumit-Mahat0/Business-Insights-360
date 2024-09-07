@@ -3,7 +3,7 @@
 ## Project Overview
 AtliQ Technologies, a fast-growing hardware company specializing in peripherals, faced significant challenges in the Latin American market. To support their growth, I developed the **Business Insights 360** Project, empowering them to make smarter business decisions through the power of data.
 
-**Live Dashboard**: [Business Insights 360](https://project.novypro.com/EwqNzk)
+**Live Dashboard**: [Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiZDU0N2VhOGEtMmY2Ni00ZmM1LWFiOWQtMWZhMGNhNmVkNGI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tech Stack
 - **SQL**
